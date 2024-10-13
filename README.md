@@ -1,4 +1,4 @@
 # youtube-demo
 This is my first Git Repository
 <br>
-Author - Samir Pantha
+Author - Samir (coder)
